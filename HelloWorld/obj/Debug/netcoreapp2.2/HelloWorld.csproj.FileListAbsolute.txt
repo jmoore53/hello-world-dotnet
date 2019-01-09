@@ -1,0 +1,11 @@
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/home/jack/Documents/School/Senior/Spring/3610/labs/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
